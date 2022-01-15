@@ -1,3 +1,1 @@
-# $PCD token
-
-* [Introduction](en.md)
+[中文](https://www.google.com "zh")
