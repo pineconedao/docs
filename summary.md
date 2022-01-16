@@ -1,1 +1,0 @@
-[中文](https://www.google.com "zh")
