@@ -1,5 +1,9 @@
-# 介绍
+# About Pinecone DAO
 
-PineconeDAO 致力打造一个DAO的P2E元宇宙游戏，我们采取捐款70%进入资金库作为治理代币的硬支撑，另30%作为游戏开发，并分发相应的游戏代币给予捐款者。
+Pinecone represents beauty, luck, wisdom, and symbolizes that our decentralized autonomous organization is like pinecone, The pineal gland of the human brain is called the third eye of humans, May PineconeDAO be the most worthy of our decentralized autonomous organizations to join and build our bright future together.
 
-欢迎加入我们，共同治理一款P2E元宇宙游戏！
+PineconeDAO supports the development of P2E metaverse games. In order for the organization to survive for a long time, 70% of our donations are stored in smart contracts, and Use this fund as the hard support for the governance token. The other 30% of the funds are used for the development, promotion and promotion of P2E metaverse games.
+
+Welcome to join PineconeDAO and jointly manage a P2E metaverse game!
+
+Early donors, in addition to the governance tokens obtained, have the opportunity to airdrop to obtain game tokens in the later stage, which can be used to purchase game NFT props.
