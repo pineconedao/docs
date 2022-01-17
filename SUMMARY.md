@@ -1,6 +1,6 @@
 # Table of contents
 
-* [关于松果道](README.md)
+* [About Pinecone DAO](README.md)
 * [$PCD治理代币](pcd-zhi-li-dai-bi.md)
 * [常见问题](chang-jian-wen-ti.md)
 * [团队](tuan-dui.md)
