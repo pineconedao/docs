@@ -1,17 +1,16 @@
-# $PCD治理代币
+# $PCD token
 
-$PCD治理币于推出。捐赠期将持续
+The $PCD governance coin will launch in early 2022.
 
-## 如何购买$PCD <a href="#ru-he-gou-mai-pcd" id="ru-he-gou-mai-pcd"></a>
+### How to buy $PCD
 
-## 分配 & 代币经济学 <a href="#fen-pei-dai-bi-jing-ji-xue" id="fen-pei-dai-bi-jing-ji-xue"></a>
+Trading pairs will be available on https://uniswap.org/ after the initial raise.&#x20;
 
-1.我们的代币是固定供应量。一但我们最初的代币筹集结束，我们将永远不会增发代币的供应量。
+### Distribution & Token Economics
 
-2.我们的代币将用于治理决策。我们将有比例的治理，直到社区决定。需要一些限制，以便如果有人购买超过51%的代币，他们也不能集中控制DAO的决定。
+1. Our tokens have a fixed supply, with a total supply of 10 billion. Once our initial token raise is over, we will never increase the supply of tokens.
+2. Our tokens will be used for governance decisions. We will have proportional governance until the community decides. Some restrictions are needed so that if someone buys more than 51% of the tokens, they also cannot centrally control the DAO's decisions.
+3. The donated funds will be divided into 2 parts. The first part accounts for 30% to support P2E game development and future promotion; the second part accounts for 70% as a reserve to support the value of tokens
+4. Donation collection will be conducted on juicebox.money and pineconedao.com, and for each contribution, we will create governance tokens at a fixed rate. You will receive these tokens in your wallet to participate in community decision governance for voting.
+5. During the donation process, we can get the governance token $PCD, as well as airdrop game tokens in the future, which can be used to purchase NFT props in the game, etc.
 
-3.捐赠的资金将分为2个部分使用，第一部分占30%用于支持P2E游戏开发，及将来的宣传推广；第二部分占70%作为储备金用于支撑代币的价值
-
-4.捐赠筹集将在juicebox.money和pineconedao.com上进行，对于每一次的贡献，我们都将以固定的费率创建治理代币。您将在钱包中收到这些代币，以便为于投票参与社区决策治理。
-
-5.我们在捐赠过程中，采取了双代币模型，主要社区治理代币$PCD，以及第一个版本的游戏代币，游戏代币后期可以用于游戏中购买NFT道具等。
