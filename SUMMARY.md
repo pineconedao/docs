@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Pinecone DAO](README.md)
+* [Pinecone DAO](README.md)
 * [$PCD token](usdpcd-token.md)
 * [FAQ](faq.md)
 * [Team](team.md)
