@@ -1,7 +1,7 @@
-# 贡献
+# Contribute
 
-如果您还有其他问题，或者想与社区一起闲逛并参与其中，请加入我们的Discord或在Twitter上关注我们。
+If you have further questions, or want to hang out with the community and get involved, please join us on Discord or follow us on Twitter.
 
-## 激进式治理 <a href="#ji-jin-shi-zhi-li" id="ji-jin-shi-zhi-li"></a>
+### progressive governance
 
-我们激进式治理模式使任何人都可以为DAO做出贡献。
+Our progressive governance model enables anyone to contribute to the DAO. As PineconeDAO matures, decisions will be made in a decentralized, bottom-up manner through community voting. PineconeDAO is not a group, but a community.
