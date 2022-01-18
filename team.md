@@ -1,3 +1,5 @@
-# 团队
+# Team
 
-免责声明：我们之所以提供这些信息，是因为我们认为这有助于建立信任，让我们名字和声誉支持这一努力。然而，我们并不声称自己是这个DAO的“领导者”，我们只是在它早期生活中帮助指导它，然后像骄傲的父母一样，一但它成熟，它就会自由运行。
+**Disclaimer**: We provide this information because we believe it will help build trust and allow our name and reputation to support this effort. However, we don't claim to be the "leader" of this DAO, we just help guide it in its early life and then, like proud parents, run free once it matures.
+
+Decentralized Autonomous Organization, every token holder is part of our team, and we have driven it through the community from the very beginning.
