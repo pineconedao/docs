@@ -25,11 +25,13 @@
 
 ## 5. Cryptocurrency ETF
 
-* [Investment Strategy](5.-cryptocurrency-etf/investment-strategy.md)
+* [Investment Strategy](5.-cryptocurrency-etf/page-5.md)
+* [Revenue Distribution](5.-cryptocurrency-etf/revenue-distribution.md)
+* [Risk Management](5.-cryptocurrency-etf/risk-management.md)
 
 ## 6. NFT lucky draw
 
-* [Page 6](6.-nft-lucky-draw/page-6.md)
+* [Mysterious Key NFT](6.-nft-lucky-draw/mysterious-key-nft.md)
 
 ## 7. Community
 
