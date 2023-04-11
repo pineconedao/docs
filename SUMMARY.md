@@ -21,10 +21,11 @@
 
 * [Issuance and Distribution](4.-pinecone-token-pct/issuance-and-distribution.md)
 * [Pinecone Token Account Types](4.-pinecone-token-pct/pinecone-token-account-types.md)
+* [Circulation and Exchange](4.-pinecone-token-pct/circulation-and-exchange.md)
 
 ## 5. Cryptocurrency ETF
 
-* [Page 5](5.-cryptocurrency-etf/page-5.md)
+* [Investment Strategy](5.-cryptocurrency-etf/investment-strategy.md)
 
 ## 6. NFT lucky draw
 
