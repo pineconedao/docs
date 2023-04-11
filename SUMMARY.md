@@ -37,11 +37,14 @@
 
 ## 7. Community
 
-* [Page 7](7.-community/page-7.md)
+* [Voting Decision](7.-community/voting-decision.md)
+* [Incentive Mechanism](7.-community/incentive-mechanism.md)
+* [Community Activities](7.-community/community-activities.md)
 
 ## 8. Development&#x20;
 
-* [Page 8](8.-development/page-8.md)
+* [Phased Goals](8.-development/phased-goals.md)
+* [Long-term vision](8.-development/long-term-vision.md)
 
 ***
 
