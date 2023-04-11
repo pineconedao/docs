@@ -37,14 +37,15 @@
 
 ## 7. Community
 
-* [Voting Decision](7.-community/voting-decision.md)
+* [Voting Decision](7.-community/page-7.md)
 * [Incentive Mechanism](7.-community/incentive-mechanism.md)
 * [Community Activities](7.-community/community-activities.md)
 
 ## 8. Development&#x20;
 
-* [Phased Goals](8.-development/phased-goals.md)
+* [Phased Goals](8.-development/page-8.md)
 * [Long-term vision](8.-development/long-term-vision.md)
+* [Development Path](8.-development/development-path.md)
 
 ***
 
@@ -54,4 +55,8 @@
 
 ## 12. User Guide
 
-* [Page 9](12.-user-guide/page-9.md)
+* [Dapp And Wallet](12.-user-guide/dapp-and-wallet.md)
+
+***
+
+* [Frequently Asked Questions(FAQ)](frequently-asked-questions-faq.md)
