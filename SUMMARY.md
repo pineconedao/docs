@@ -8,15 +8,18 @@
 
 ## 2. Introduction
 
-* [Page 2](2.-introduction/page-2.md)
+* [Core Concepts](2.-introduction/core-concepts.md)
+* [Platform Features](2.-introduction/platform-features.md)
 
 ## 3. Technical architecture
 
-* [Page 3](3.-technical-architecture/page-3.md)
+* [Blockchain Technology](3.-technical-architecture/blockchain-technology.md)
+* [Smart Contracts](3.-technical-architecture/smart-contracts.md)
+* [Cross-Chain Interoperability](3.-technical-architecture/cross-chain-interoperability.md)
 
 ## 4. Pinecone Token (PCT)
 
-* [Page 4](4.-pinecone-token-pct/page-4.md)
+* [Issuance and Distribution](4.-pinecone-token-pct/issuance-and-distribution.md)
 
 ## 5. Cryptocurrency ETF
 
