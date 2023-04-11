@@ -3,6 +3,8 @@
 ## 1. Overview
 
 * [PineconeDAO Background](README.md)
+* [PineconeDAO Vision](1.-overview/pineconedao-vision.md)
+* [Market Insights and Opportunities](1.-overview/market-insights-and-opportunities.md)
 
 ## 2. Introduction
 
