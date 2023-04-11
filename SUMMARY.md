@@ -20,6 +20,7 @@
 ## 4. Pinecone Token (PCT)
 
 * [Issuance and Distribution](4.-pinecone-token-pct/issuance-and-distribution.md)
+* [Pinecone Token Account Types](4.-pinecone-token-pct/pinecone-token-account-types.md)
 
 ## 5. Cryptocurrency ETF
 
