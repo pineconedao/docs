@@ -32,6 +32,8 @@
 ## 6. NFT lucky draw
 
 * [Mysterious Key NFT](6.-nft-lucky-draw/mysterious-key-nft.md)
+* [Blind Box NFT](6.-nft-lucky-draw/blind-box-nft.md)
+* [Lucky Treasure Box Lottery Event](6.-nft-lucky-draw/lucky-treasure-box-lottery-event.md)
 
 ## 7. Community
 
