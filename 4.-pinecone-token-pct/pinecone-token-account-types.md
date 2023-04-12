@@ -15,3 +15,12 @@ description: Explore PineconeDAO and enjoy the journey of intelligent wealth gro
 #### Below is a simple chart displaying the functions and privileges of different account types: (The chart is missing in the provided text.)
 
 <figure><img src="../.gitbook/assets/account_type_en.jpg" alt=""><figcaption></figcaption></figure>
+
+To upgrade an account, a Standard Account must first be converted into a Genesis Account. There are currently two ways to achieve this:
+
+1. Accept an invitation or referral from a Pine Tree or Director account holder.
+2. Discover the hidden feature in the blind box. Opening the blind box will automatically convert a Standard Account into a Genesis Account.
+
+Once a Genesis Account is obtained, it can be upgraded to a Pine Tree or Director Account. Additionally, when the number of Pine Trees in a Pine Tree Account reaches 30, the account will automatically be upgraded to a Director Account.
+
+Please note that any future changes to the account upgrade process will be communicated accordingly, and the platform's features will determine the final process.
