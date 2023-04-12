@@ -23,4 +23,6 @@ To upgrade an account, a Standard Account must first be converted into a Genesis
 
 Once a Genesis Account is obtained, it can be upgraded to a Pine Tree or Director Account. Additionally, when the number of Pine Trees in a Pine Tree Account reaches 30, the account will automatically be upgraded to a Director Account.
 
+{% hint style="info" %}
 Please note that any future changes to the account upgrade process will be communicated accordingly, and the platform's features will determine the final process.
+{% endhint %}
